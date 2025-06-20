@@ -13,10 +13,13 @@ Sou estudante de sistemas de informação e estou desenvolvendo minhas habilidad
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 </div>
 
+### Outras ferramentas diversas que utilizo ⭐
+Power BI, SQL Server, Figma, Ferramentas da Microsoft(Sharepoint, Power Apps, Power Automate)
+
+  ### Soft Skills notáveis 🔍
+Excelente comunicação e perfil analítico.
+
 <div>
-  
-### My Favorite Hobbies⏲️
-  - 📚 Leitura de livros de desenvolvimento pessoal e cristão.
-  - 🎹 Ouvir musicas clássicas e ambiente como interstellar.
-  - 🧑🏻‍💻 Aprender assuntos novos, especialmente quando se trata de inteligência artificial e dados.
+    <h2>Conecte-se comigo no Linkedln 🫱🏽‍🫲🏽</h2>
+   <a href="https://www.linkedin.com/in/alexandre-bakanovas-3593b9167/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
