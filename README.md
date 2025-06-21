@@ -21,5 +21,5 @@ Excelente comunicação e perfil analítico.
 
 <div>
     <h2>Conecte-se comigo no Linkedln 🫱🏽‍🫲🏽</h2>
-   <a href="https://www.linkedin.com/in/alexandre-bakanovas-3593b9167/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+   <a href="https://www.linkedin.com/in/lucas-santos-50459a248/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
