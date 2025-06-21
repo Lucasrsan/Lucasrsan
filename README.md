@@ -14,7 +14,7 @@ Sou estudante de sistemas de informação e estou desenvolvendo minhas habilidad
 </div>
 
 ### Other Tools I Use ⭐
-Power BI, SQL Server, Figma, Ferramentas da Microsoft(Sharepoint, Power Apps, Power Automate)
+Power BI, SQL Server, Figma, Ferramentas da Microsoft(SharePoint, Power Apps, Power Automate)
 
   ### Soft Skills 🔍
 Excelente comunicação e perfil analítico.
