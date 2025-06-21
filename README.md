@@ -1,8 +1,8 @@
-# 👋🏼 Olá, me chamo Lucas!
+# 👋🏼 Hi, I'm Lucas!
 Sou estudante de sistemas de informação e estou desenvolvendo minhas habilidades em programação.
 
 ##
-### 📊 Estatísticas no GitHub:
+### 📊 Github Statistics :
 <a href="https://github.com/Lucasrsan">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Lucasrsan&locale=pt-br&theme=github_dark&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github" />
 </a>
@@ -13,10 +13,10 @@ Sou estudante de sistemas de informação e estou desenvolvendo minhas habilidad
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 </div>
 
-### Outras ferramentas diversas que utilizo ⭐
+### Other Tools I Use ⭐
 Power BI, SQL Server, Figma, Ferramentas da Microsoft(Sharepoint, Power Apps, Power Automate)
 
-  ### Soft Skills notáveis 🔍
+  ### Soft Skills 🔍
 Excelente comunicação e perfil analítico.
 
 <div>
