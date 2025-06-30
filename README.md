@@ -3,9 +3,7 @@ Sou estudante de sistemas de informação e estou desenvolvendo minhas habilidad
 
 ##
 ### 📊 Github Statistics :
-<a href="https://github.com/Lucasrsan">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Lucasrsan&locale=pt-br&theme=github_dark&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github" />
-</a>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lucasrsan&show_icons=true&theme=dark)
   
 ### Programming Languages ​​that I am learning 🧑🏻‍💻
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
