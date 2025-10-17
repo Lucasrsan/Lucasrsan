@@ -1,5 +1,5 @@
 # 👋🏼 Hi, I'm Lucas!
-Sou estudante de sistemas de informação e estou desenvolvendo minhas habilidades em programação.
+Sou estudante de Sistemas de Informação e estou desenvolvendo minhas habilidades em programação.
 
 ##
 ### 📊 Github Statistics :
@@ -12,10 +12,10 @@ Sou estudante de sistemas de informação e estou desenvolvendo minhas habilidad
 </div>
 
 ### Other Tools I Use ⭐
-Power BI, SQL Server, Figma, Ferramentas da Microsoft(SharePoint, Power Apps, Power Automate)
+Power BI, SQL Server, PostgreSQL, Figma,  Ferramentas da Microsoft(SharePoint, Power Apps, Power Automate)
 
   ### Soft Skills 🔍
-Excelente comunicação e perfil analítico.
+Excelente comunicação, proatividade e perfil analítico.
 
 <div>
     <h2>Conecte-se comigo no Linkedln 🫱🏽‍🫲🏽</h2>
