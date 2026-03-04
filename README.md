@@ -12,7 +12,7 @@ I'm Information Systems student and I am developing my programming skills.
 </div>
 
 ### Other Tools I Use ⭐
-Power BI, SQL Server, PostgreSQL, Figma,  Ferramentas da Microsoft(SharePoint, Power Apps, Power Automate).
+Power BI, SQL Server, PostgreSQL, Figma,  Microsoft(SharePoint, Power Apps, Power Automate).
 
   ### Soft Skills 🔍
 Excellent Communication, Proactive and Analytical Profile 
